@@ -16,7 +16,7 @@ from random import choice, random, randint
 
 pygame.init()
 
-WIDTH = 900
+WIDTH = 1200
 HEIGHT = 800
 
 # UI stuff
